@@ -1,0 +1,632 @@
+{
+    "fill_rate": 0,
+    "grid_height": 16,
+    "grid_width": 16,
+    "height": 320,
+    "image": "magetower_iso_master.png",
+    "name": "Atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "region_0",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                0,
+                0,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "region_1",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                0,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 132,
+            "name": "region_10",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 134,
+            "name": "region_11",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 192,
+            "name": "region_12",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                0,
+                96,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 194,
+            "name": "region_13",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                96,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 196,
+            "name": "region_14",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                96,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 198,
+            "name": "region_15",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                96,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 256,
+            "name": "region_16",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                0,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 258,
+            "name": "region_17",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 260,
+            "name": "region_18",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 262,
+            "name": "region_19",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "region_2",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                0,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 264,
+            "name": "region_20",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 266,
+            "name": "region_21",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                160,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 268,
+            "name": "region_22",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                192,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 270,
+            "name": "region_23",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                224,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 200,
+            "name": "region_24",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                96,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 72,
+            "name": "region_25",
+            "origin": [
+                16,
+                8
+            ],
+            "rect": [
+                128,
+                32,
+                32,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 8,
+            "name": "region_26",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                0,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 518,
+            "name": "region_27",
+            "origin": [
+                24,
+                32
+            ],
+            "rect": [
+                96,
+                256,
+                48,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 517,
+            "name": "region_28",
+            "origin": [
+                8,
+                16
+            ],
+            "rect": [
+                80,
+                256,
+                16,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 580,
+            "name": "region_29",
+            "origin": [
+                16,
+                8
+            ],
+            "rect": [
+                64,
+                288,
+                32,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "region_3",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                0,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 612,
+            "name": "region_30",
+            "origin": [
+                16,
+                8
+            ],
+            "rect": [
+                64,
+                304,
+                32,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 578,
+            "name": "region_31",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                288,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 526,
+            "name": "region_32",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                224,
+                256,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 338,
+            "name": "region_33",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                288,
+                160,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 340,
+            "name": "region_34",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                320,
+                160,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 24,
+            "name": "region_35",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                384,
+                0,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 28,
+            "name": "region_36",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                448,
+                0,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 22,
+            "name": "region_37",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                352,
+                0,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 20,
+            "name": "region_38",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                320,
+                0,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 152,
+            "name": "region_39",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                384,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 64,
+            "name": "region_4",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                0,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 154,
+            "name": "region_40",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                416,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 66,
+            "name": "region_5",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 68,
+            "name": "region_6",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 70,
+            "name": "region_7",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 128,
+            "name": "region_8",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                0,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 130,
+            "name": "region_9",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 41,
+    "rotations": false,
+    "using_grid": true,
+    "width": 512
+}
